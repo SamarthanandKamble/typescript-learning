@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning typeScript basics",
+  "main": "/src/index.ts",
+  "scripts": {
+    "start": "node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamarthanandKamble/typescript-learning.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript"
+  ],
+  "author": "Samarthanand Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamarthanandKamble/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/SamarthanandKamble/typescript-learning#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
